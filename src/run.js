@@ -1,4 +1,4 @@
 const run = () =>
-  1
+  process.uptime()
 
 module.exports = run
