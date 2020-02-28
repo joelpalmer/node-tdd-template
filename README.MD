@@ -9,5 +9,6 @@
 - [ ] My upcoming book/paper/videos or whatever I publish with all my real-world examples and notes. 
 
 ### Instructions
+- [ ] Change `jest` config as desired
 - [ ] Run `Wallaby` (or `jest` in watch mode)
 - [ ] Start TDDing!
